@@ -24,7 +24,7 @@
 
     sudo nano /etc/nginx/nginx.conf
 
-     *add the following proxy pass*
+     * add the following proxy pass *
     
      location / {
         proxy_pass http://127.0.0.1:3000;
