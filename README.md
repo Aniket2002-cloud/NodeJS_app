@@ -22,7 +22,7 @@
 
 11) sudo service nginx start
 
-12) sudo nano /etc/nginx/nginx.conf
+    sudo nano /etc/nginx/nginx.conf
 
      *add the following proxy pass*
     
