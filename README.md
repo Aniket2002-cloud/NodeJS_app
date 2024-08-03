@@ -18,11 +18,11 @@
 
 9) npm start
 
-10)sudo yum install nginx -y
+10) sudo yum install nginx -y
 
-11)sudo service nginx start
+11) sudo service nginx start
 
-12)sudo nano /etc/nginx/nginx.conf
+12) sudo nano /etc/nginx/nginx.conf
 
      *add the following proxy pass*
     
